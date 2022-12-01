@@ -11,7 +11,7 @@ public class Recur_Msg_NTimes {
 		*/
 
 		// Declare vars
-		int n = 3;
+		int n = 13;
 		String msg = "Printing with a for loop in the method";
 		String msg2 = "Printing with a recursive algo";
 		
